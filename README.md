@@ -14,6 +14,7 @@ The practice of concealing messages or information within other non-secret data,
 - Run any steganography file - `TextStegano.py` `ImageStegano.py` `AudioStegano.py` or `VideoStegano.py`
 - All the files that are going to be embed are present in 'sample_files' folder. And after embedding the message output file gets saved in 'Result_files' folder with name as "<file_name>_embeded".
 Note that ImageStegHelper.py is a helper file to ImageStegano, that does nothing when compiled. And for embedding in gif use VideoStegno.py
+- Note : You would require to **update path** of *Result_files* folder as per your system path. Else it will throw `error` while saving file after embeding, as path where to save will not be found.
 
 
 ## Working Mechanism of Text Steganography

@@ -122,7 +122,4 @@ The program provides a command-line interface (CLI) for users to perform various
 Additionally, the program utilizes the tkinter library in Python to present GUI dialogue boxes for selecting (opening) files, enhancing user convenience.
 
 
-## Team 
 
-- [Viswanadha Sai Nissankararao](https://github.com/createunique)
-- Nishant Kumar _  `me`
